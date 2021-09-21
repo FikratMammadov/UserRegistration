@@ -78,7 +78,7 @@ namespace DataAccess.Concrete.AdoNet
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.CommandText = "public.get_all_users";
                 var rdr = cmd.ExecuteScalar();
-                 
+                
                 users = JsonConvert.DeserializeObject<List<User>>(rdr.ToString());
                 con.Close();
                 con.Dispose();

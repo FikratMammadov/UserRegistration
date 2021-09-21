@@ -117,3 +117,6 @@ D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\bin\Debug\netcoreapp3.1\YamlD
 D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ATL\UserRegistrationApp\UserRegistration\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll

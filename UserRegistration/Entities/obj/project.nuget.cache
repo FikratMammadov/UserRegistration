@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MQtVzVFv+JWyYU+via3xB0P20bDML6REAIrZUocqlSs+7Ef3RNqKBTbcNygK612DKVsYZTN5icvJKr4wSl/v5g==",
+  "dgSpecHash": "sY0FJ6tZSXOMCZTPxhBe8mMLzsVCXI2VOIrOX4jAq56Slv3NoWaM6AWs8TrnE29S3SwH+AxnZ664K/20agon8g==",
   "success": true,
   "projectFilePath": "D:\\ATL\\UserRegistrationApp\\UserRegistration\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Fikret\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
